@@ -12,6 +12,10 @@ LaMigra/<br>
 ┣━━ scripts/i&emsp;&emsp;&emsp;&emsp;# Documentation files<br>
 ┃&emsp;&emsp;&emsp;┗━━ README.md<br>
 ┃<br>
+┃<br>
+┣━━ schemas/i&emsp;&emsp;&emsp;&emsp;# Documentation files<br>
+┃&emsp;&emsp;&emsp;┗━━ README.md<br>
+┃&emsp;&emsp;&emsp;┗━━ crdb_dvdrental_edt.sql<br>
 ┗━━ .gitignore&emsp;&emsp;&emsp;# Git ignore file to exclude files/folders<br>
 &emsp;&emsp;&emsp;&emsp;crdb_lamigra.ipyg<br>
 &emsp;&emsp;&emsp;&emsp;README.md
