@@ -9,11 +9,11 @@ LaMigra/<br>
 ┣━━ data/&emsp;&emsp;&emsp;&emsp;&emsp;# Data files (CSV, JSON, etc.)<br>
 ┃&emsp;&emsp;&emsp;┗━━ dataset.csv<br>
 ┃<br>
-┣━━ scripts/i&emsp;&emsp;&emsp;&emsp;# Documentation files<br>
+┣━━ scripts/&emsp;&emsp;&emsp;&emsp;# Documentation files<br>
 ┃&emsp;&emsp;&emsp;┗━━ README.md<br>
 ┃<br>
 ┃<br>
-┣━━ schemas/i&emsp;&emsp;&emsp;&emsp;# Documentation files<br>
+┣━━ schemas/&emsp;&emsp;&emsp;&emsp;# Documentation files<br>
 ┃&emsp;&emsp;&emsp;┗━━ README.md<br>
 ┃&emsp;&emsp;&emsp;┗━━ crdb_dvdrental_edt.sql<br>
 ┗━━ .gitignore&emsp;&emsp;&emsp;# Git ignore file to exclude files/folders<br>
