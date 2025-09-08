@@ -18,6 +18,7 @@ LaMigra/<br>
 ┃&emsp;&emsp;&emsp;┗━━ crdb_dvdrental_edt.sql<br>
 ┗━━ .gitignore&emsp;&emsp;&emsp;# Git ignore file to exclude files/folders<br>
 &emsp;&emsp;&emsp;&emsp;crdb_lamigra.ipyg<br>
+&emsp;&emsp;&emsp;&emsp;import_lamigra.py<br>
 &emsp;&emsp;&emsp;&emsp;README.md
 
 Here are some common box drawing characters:
